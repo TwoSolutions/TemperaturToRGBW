@@ -10,4 +10,4 @@ Usage:
 from temptorgbw_pkg import TemperatureToRGBW
 r,g,b,w = TemperatureToRGBW.kelvin_to_rgbw(temperature)
 ```
-Note: Any Temperature smaller then 1000 will be capped to 1000 and any temperature bigger then 40000 will be capped to 40000
+Note: Any temperature smaller then 1000 will be capped to 1000 and any temperature bigger then 40000 will be capped to 40000
