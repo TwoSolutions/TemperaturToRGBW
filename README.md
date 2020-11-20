@@ -1,6 +1,7 @@
 # TemperatureToRGBW
 Convert a Kelvin Temperature to RGBW
-Install:\
+
+Install:
 
 pip install temp-to-rgbw
 
