@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/temp-to-rgbw.svg)](https://badge.fury.io/py/temp-to-rgbw)
 # TemperatureToRGBW
 Convert a Kelvin Temperature to RGBW
 
